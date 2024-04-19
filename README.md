@@ -2,7 +2,7 @@
 - 👀 I’m a Developer/Development Director, Photographer, Skier, Hopeless Neovim Tinkerer
 - 🌱 I’m currently learning Rust, Lua, Azure Cloud Architecture
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 [stone@lasley.io](mailto:stone+gh@lasley.io)
+- 📫 [github@lasley.io](mailto:github@lasley.io)
 
 
 
